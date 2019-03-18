@@ -20,7 +20,7 @@ Financial institutions in the US are changing rapidly. Changing business models 
 
 3. Run file_cluster.py file to add features in the dataset.
 
-4 Run report.py file and open http://localhost:5000 to see the report.
+4. Run report.py file and open http://localhost:5000 to see the report.
 
 5. Analysis Report is placed under Report folder
 
